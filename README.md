@@ -4,7 +4,7 @@ A comprehensive, full-stack ecommerce and administration platform tailored for a
 
 🔗 **Live Demo:** [https://boostifygrowth.infy.uk](https://boostifygrowth.infy.uk)
 
-![Boostify Growth Homepage Screenshot](/Homepage_BoostifyGrowth.png)
+![Boostify Growth Homepage Screenshot](Homepage_BoostifyGrowth.png)
 
 > **Note:** The source code for this project is private and proprietary. This README serves as a portfolio showcase outlining the architecture, features, and technical skills applied during development.
 
